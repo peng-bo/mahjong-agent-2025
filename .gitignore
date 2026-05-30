@@ -1,0 +1,11 @@
+# uv artifacts
+.venv/
+uv.lock
+
+# generated data
+data/
+data-vec/
+
+# Python cache
+__pycache__/
+*.py[cod]
